@@ -1,5 +1,5 @@
 #include <iostream>
-//типо шахматы
+//С‚РёРїРѕ С€Р°С…РјР°С‚С‹
 
 
 enum class coordinate { a, b, c, d, e, f, g, h };
